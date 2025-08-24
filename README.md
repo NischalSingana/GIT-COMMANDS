@@ -1,4 +1,4 @@
-# GIT-Commands
+# GIT-Commands for Beginenrs
 
 These are the most used commands in Git:
 
